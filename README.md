@@ -11,7 +11,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lua-developer=anuraghazra&show_icons=true&theme=radical)
 now underconstruct
 ## Navigation
 1. [How to Use](#how-to-use)
