@@ -10,7 +10,7 @@
 </p>
 
 [![Solved.ac
-bjjy1113](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ccoco&c=c)](https://solved.ac/bjjy1113)
 
 now underconstruct
 ## Navigation
