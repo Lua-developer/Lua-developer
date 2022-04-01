@@ -1,10 +1,12 @@
-# Hello My Github Blog!!
-
-
+# Lua-Developer profile
+Yeungnam University major of Information and Communication
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lua-developer=anuraghazra&show_icons=true&theme=radical)
 now underconstruct
+# Project
+1. Covid-19 Control Web Project  
+2. Moblie Parking Control System  
+3. (예정) use Patten deep learning model, drink, drowsy driver(Emegency driver) detector system
 ## Tech Stack
 ### languages
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
