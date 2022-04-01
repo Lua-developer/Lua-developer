@@ -1,11 +1,12 @@
 # Lua-Developer profile
-Yeungnam University major of Information and Communication
+Yeungnam University major of Information and Communication  
+now study tech to OpenCV, use tensorflow make deep learning model(DNN, CNN, R-CNN)  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)
-now underconstruct
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)  
+**now underconstruct**
 # Project
 1. Covid-19 Control Web Project  
-2. Moblie Parking Control System  
+2. Moblie Parking Control System  (Now Develop)
 3. (예정) use Patten deep learning model, drink, drowsy driver(Emegency driver) detector system
 ## Tech Stack
 ### languages
@@ -20,21 +21,3 @@ now underconstruct
 <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-00599C.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-030303.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=blue"/>
 <img alt="git" src ="https://img.shields.io/badge/git-A8B9CC.svg?&style=for-the-badge&logo=git&logoColor=black"/>
-
-Any of Idea -> [Idea-Issue](https://github.com/kyechan99/capsule-render/labels/Idea) or [PR](https://github.com/kyechan99/capsule-render/pulls)
-
-# How to Use
-```
-https://capsule-render.vercel.app/api?
-```
-Just write query parameter end of this url. Like this
-
-Markdown:
-```
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-```
-
-HTML:
-```
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-```
