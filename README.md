@@ -7,7 +7,8 @@ now study tech to OpenCV, use tensorflow make deep learning model(DNN, CNN, R-CN
 # Project
 1. Covid-19 Control Web Project  
 2. Moblie Parking Control System  (Now Develop)
-3. (예정) use Patten deep learning model, drink, drowsy driver(Emegency driver) detector system
+3. El-Simulator (Game Elsword Probability expect Program)
+4. (예정) use Patten deep learning model, drink, drowsy driver(Emegency driver) detector system
 ## Tech Stack
 ### languages
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
