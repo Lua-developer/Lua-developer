@@ -1,7 +1,7 @@
 # Lua-Developer profile
 Yeungnam University major of Information and Communication  
-now study tech to OpenCV, use tensorflow make deep learning model(DNN, CNN, R-CNN) 
-Naver Blog : https://blog.naver.com/bjjy1113
+now study tech to OpenCV, use tensorflow make deep learning model(DNN, CNN, R-CNN)  
+Naver Blog : https://blog.naver.com/bjjy1113  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)  
 **now underconstruct**
