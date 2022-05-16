@@ -8,7 +8,7 @@ Naver Blog : https://blog.naver.com/bjjy1113
 **now underconstruct**
 # Project
 1. Covid-19 Control Web Project  
-2. Moblie Parking Control System  (Now Develop)
+2. Moblie Parking Payment System  
 3. El-Simulator (Game Elsword Probability expect Program)
 4. (예정) use Patten deep learning model, drink, drowsy driver(Emegency driver) detector system
 # Tech Stack
