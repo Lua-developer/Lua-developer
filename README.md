@@ -11,8 +11,8 @@ Naver Blog : https://blog.naver.com/bjjy1113
 2. Moblie Parking Payment System  
 3. Elsowrd item and enhance Probability Simulator (예정)
 # Tech Stack
-## Field
 Big Data (Python Pandas, numpy)  
+Computer Vision (Python, C++ Opencv)  
 AI/ML (Python, Tensorflow)  
 Programming (Python, C, C++)  
 DB (MySQL)  
