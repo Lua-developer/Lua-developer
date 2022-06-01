@@ -9,11 +9,10 @@ Naver Blog : https://blog.naver.com/bjjy1113
 # Project
 1. Covid-19 Control Web Project  
 2. Moblie Parking Payment System  
-3. El-Simulator (Game Elsword Probability expect Program)
-4. (예정) use Patten deep learning model, drink, drowsy driver(Emegency driver) detector system
+3. Elsowrd item and enhance Probability Simulator (예정)
 # Tech Stack
 ## Field
-Big Data (R, Python)  
+Big Data (Python Pandas, numpy)  
 AI/ML (Python, Tensorflow)  
 Programming (Python, C, C++)  
 DB (MySQL)  
