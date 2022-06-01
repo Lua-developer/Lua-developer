@@ -26,7 +26,7 @@ Web (html, php, JS)
 <img alt="SQL" src ="https://img.shields.io/badge/MySQL-030303.svg?&style=for-the-badge&logo=MySQL&logoColor=blue"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
 
-### Using Tool
+### Tool
 <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-00599C.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-030303.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=blue"/>
 <img alt="git" src ="https://img.shields.io/badge/git-A8B9CC.svg?&style=for-the-badge&logo=git&logoColor=black"/>
