@@ -1,8 +1,9 @@
 # Lua-Developer profile
 Yeungnam University major of Information and Communication  
 now study tech to OpenCV, use tensorflow make deep learning model(MLP, CNN, R-CNN)  
-Naver Blog : https://blog.naver.com/bjjy1113  
-네이버 블로그에는 프로젝트 개발에 대한 상세 내용을 작성 하였습니다.  
+## Tech Blog
+Naver Blog Link: https://blog.naver.com/bjjy1113  
+네이버 블로그에는 프로젝트 개발과정 및 공부한 기술에 대한 상세 내용을 작성 하였습니다.  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)  
 **now underconstruct**
