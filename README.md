@@ -1,16 +1,16 @@
 # Lua-Developer profile
 Yeungnam University major of Information and Communication  
-now study tech to OpenCV, use tensorflow make deep learning model(MLP, CNN, R-CNN)  
+now study tech to OpenCV, use tensorflow make deep learning model(MLP, KNN, CNN, R-CNN(Yolo Transfer learning))  
 ## Tech Blog
 Naver Blog Link: https://blog.naver.com/bjjy1113  
 네이버 블로그에는 프로젝트 개발과정 및 공부한 기술에 대한 상세 내용을 작성 하였습니다.  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)  
 **now underconstruct**
 # Project
 1. Covid-19 Control Web Project  
 2. Moblie Parking Payment System  
 3. Elsowrd item and enhance Probability Simulator (예정)
+4. Forward Collision Prevention System(예정)  
 # Tech Stack
 Big Data (Python Pandas, numpy)  
 Computer Vision (Python, C++ Opencv)  
