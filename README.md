@@ -7,22 +7,23 @@ Naver Blog Link: https://blog.naver.com/bjjy1113
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)  
 **now underconstruct**
 # Project
-1. Covid-19 Control Web Project  
-2. Moblie Parking Payment System  
-3. Elsowrd item and enhance Probability Simulator (예정)
-4. Forward Collision Prevention System(예정)  
+1. Covid-19 Control Web Project(단체)  
+2. Moblie Parking Payment System(2인)  
+3. Credit Card OCR Program(Side Project) 진행중(개인)  
+# Web 외주
+패키지 여행사 각 상품 코드에 따른 남 여 예약자 수 표기 기능 추가(MySQL, 그누보드)  
+쓰레기 수거 서비스 개발(MySQL, 부트스트랩(php, html, Laravel))
 # Tech Stack
 Big Data (Python Pandas, numpy)  
 Computer Vision (Python, C++ Opencv)  
 AI/ML (Python, Tensorflow)  
 Programming (Python, C, C++)  
 DB (MySQL)  
-Web (html, php, JS)
+Web (html, php, JS, BootStrap)
 ## languages
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="OpenCV" src ="https://img.shields.io/badge/Opencv-3776AB.svg?&style=for-the-badge&logo=OpenCV&logoColor=red"/>
 <img alt="Tensorflow" src ="https://img.shields.io/badge/tensorflow-00599C.svg?&style=for-the-badge&logo=tensorflow&logoColor=orange"/>
-<img alt="R" src ="https://img.shields.io/badge/R-00599C.svg?&style=for-the-badge&logo=R&logoColor=blue"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=green"/>
 <img alt="SQL" src ="https://img.shields.io/badge/MySQL-030303.svg?&style=for-the-badge&logo=MySQL&logoColor=blue"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
