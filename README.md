@@ -11,8 +11,8 @@ Naver Blog Link: https://blog.naver.com/bjjy1113
 2. Moblie Parking Payment System(2인)  
 3. Credit Card OCR Program(Side Project) 진행중(개인)  
 # Web 외주기록
-패키지 여행사 각 상품 코드에 따른 남 여 예약자 수 표기 기능 추가(MySQL, 그누보드)  
-쓰레기 수거 서비스 개발(MySQL, 부트스트랩(php, html, Laravel))
+패키지 여행사 각 상품 코드에 따른 남 여 예약자 수 표기 기능 추가(MySQL, 그누보드)(작업 기간 1일) 설명 :   
+쓰레기 수거 서비스 개발(MySQL, 부트스트랩(php, html, Laravel))(개발중)  설명 :  
 # Tech Stack
 Big Data (Python Pandas, numpy)  
 Computer Vision (Python, C++ Opencv)  
