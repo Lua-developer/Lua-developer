@@ -12,7 +12,7 @@ Naver Blog Link: https://blog.naver.com/bjjy1113
 3. Credit Card OCR Program(Side Project) 진행중(개인)  
 # Web 외주기록
 패키지 여행사 각 상품 코드에 따른 남 여 예약자 수 표기 기능 추가(MySQL, 그누보드)(작업 기간 1일) 설명 :   
-쓰레기 수거 서비스 개발(MySQL, 부트스트랩(php, html, Laravel))(2022.09.01 배포) 서비스 링크 :
+쓰레기 수거 서비스 개발(MySQL, 부트스트랩(php, html, Laravel))(2022.09.01 배포) 배급사 : 다온다움 서비스 링크 : http://daondaump1.com/
 # Tech Stack
 Big Data (Python Pandas, numpy)  
 Computer Vision (Python, C++ Opencv)  
