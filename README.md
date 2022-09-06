@@ -4,15 +4,13 @@ now study tech to OpenCV, use tensorflow make deep learning model(MLP, KNN, CNN,
 ## Tech Blog
 Naver Blog Link: https://blog.naver.com/bjjy1113  
 네이버 블로그에는 프로젝트 개발과정 및 공부한 기술에 대한 상세 내용을 작성 하였습니다.  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113&c=c)](https://solved.ac/bjjy1113)  
 **now underconstruct**
 # Project
 1. Covid-19 Control Web Project(단체)  
 2. Moblie Parking Payment System(2인)  
 3. Credit Card OCR Program(Side Project) 진행중(개인)  
-# Web 외주기록
-패키지 여행사 각 상품 코드에 따른 남 여 예약자 수 표기 기능 추가(MySQL, 그누보드)(작업 기간 1일) 설명 :   
-전통환경(풀스택 개발) 개발기간 2022.07~ 현재 진행중 배급사 : 다온다움  
+4. 패키지 여행사 각 상품 코드에 따른 남 여 예약자 수 표기 기능 추가(MySQL, 그누보드)(작업 기간 1일) 설명 :   
+5. 전통환경(풀스택 개발) 개발기간 2022.07~ 현재 진행중 배급사 : 다온다움  
 DB MySQL 8.0.2  
 framework : laravel 7  
 backend : php  
