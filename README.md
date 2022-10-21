@@ -4,9 +4,8 @@ Naver Blog Link: https://blog.naver.com/bjjy1113
 # Project
 1. Covid-19 Control Web Project(8인)  
 2. Moblie Parking Payment System(2인)  
-3. Credit Card OCR Program(Side Project) 진행중(개인)  
-4. 여행사 웹 페이지 기능 추가 (그누보드, MySQL)
-5. 전통환경 서비스 개발 및 배포(개인)
+3. 여행사 웹 페이지 기능 추가 (그누보드, MySQL)
+4. 전통환경 서비스 개발 및 배포(계약 만료 및 개발 종료)  
 #
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="OpenCV" src ="https://img.shields.io/badge/Opencv-3776AB.svg?&style=for-the-badge&logo=OpenCV&logoColor=red"/>
