@@ -1,6 +1,11 @@
 # Hi there 👋
 ### 💬 About Me
-파이썬과 C++을 주력으로 컴퓨터비전, 머신러닝, 데이터 분석을 공부하고 있습니다.
+C++, Python, Linux에 관심이 많아요.  
+**최근 관심사**
+* Pandas, Seaborn
+* OpenCV
+* RaspberryPi
+* Linux(Ubuntu)
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
@@ -8,6 +13,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-777BB4?style=flat-square&logo=Linux&logoColor=white"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lua-developer&layout=compact&langs_count=6&theme=dark"/>
