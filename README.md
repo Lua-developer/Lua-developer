@@ -2,10 +2,11 @@
 ### 💬 About Me
 C++, Python, Linux에 관심이 많아요.  
 **최근 관심사**
-* Pandas, Seaborn
+* AI, Data analysis
 * OpenCV
-* RaspberryPi
-* Linux(Ubuntu)
+* RaspberryPi(Iot)
+* Linux(Ubuntu, Raspbian)
+* Docker
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
