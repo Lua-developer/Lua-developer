@@ -24,7 +24,7 @@ C++, Python, Linux에 관심이 많아요.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113)](https://solved.ac/bjjy1113)  
 
 ### 🤝🏻 Contact
-<a href="mailto:bjjy1113@yu.ac.kr"><img src="https://img.shields.io/badge/-bjjy1113@yu.ac.kr-FFFFFF?style=flat&logo=google&logoColor=white"/></a>
+<a href="mailto:bjjy1113@naver.com"><img src="https://img.shields.io/badge/-bjjy1113@yu.ac.kr-FFFFFF?style=flat&logo=google&logoColor=white"/></a>
 
 <!--
 **virtus2/virtus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
