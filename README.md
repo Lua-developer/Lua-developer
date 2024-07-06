@@ -1,12 +1,13 @@
 # Hi there 👋
 ### 💬 About Me
-C++, Python, Linux에 관심이 많아요.  
+엔드포인트 보안 회사에서 재직중이에요.
 **Core Skill**
 * Linux (Redhat - CentOS, RockyOS)
-* PHP, Python, JS, bash
+* PHP, Python, JS, bash Script
 **최근 관심사**
-* AI, Data analysis
-* OpenCV
+* Java Spring
+* Go
+* Docker & k8s (Cloud and Container)
 * RaspberryPi(Iot)
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
