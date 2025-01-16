@@ -1,14 +1,26 @@
 # Hi there 👋
 ### 💬 About Me
-엔드포인트 보안 회사에서 재직중이에요.
+엔드포인트 보안 회사에서 백엔드 개발자로 재직중이에요.<br>
+2022.06 ~
+### Develop environment
+* MacBook Pro M3
+* Vistual Studio Code
+* ModaXterm (Windows) (SSH, SFTP)
+* Port X (Mac) (SSH, SFTP)
 **Core Skill**
 * Linux (Redhat - CentOS, RockyOS)
-* PHP, Python, JS, bash Script
+* PHP(5, 7, 8), Python(2, 3), JS, Shell Script
+* MySQL & MariaDB
+* Git
+**Learning Skill**
+* Java
+* Spring Boot (MyBatis, JPA, Security, etc..)
 **최근 관심사**
 * Java Spring
 * Go
 * Docker & k8s (Cloud and Container)
 * RaspberryPi(Iot)
+* Redis & Kafka
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
@@ -27,7 +39,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bjjy1113)](https://solved.ac/bjjy1113)  
 
 ### 🤝🏻 Contact
-<a href="mailto:bjjy1113@naver.com"><img src="https://img.shields.io/badge/-bjjy1113@yu.ac.kr-FFFFFF?style=flat&logo=google&logoColor=white"/></a>
+<a href="mailto:bjjy1113@naver.com"><img src="https://img.shields.io/badge/-bjjy1113@naver.com-FFFFFF?style=flat&logo=google&logoColor=white"/></a>
 
 <!--
 **virtus2/virtus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
