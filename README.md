@@ -1,26 +1,29 @@
 # Hi there 👋
 ### 💬 About Me
 엔드포인트 보안 회사에서 백엔드 개발자로 재직중이에요.<br>
-2022.06 ~
+2023.06 ~
 ### Develop environment
 * MacBook Pro M3
 * Vistual Studio Code
 * ModaXterm (Windows) (SSH, SFTP)
 * Port X (Mac) (SSH, SFTP)
-**Core Skill**
+### Core Skill
 * Linux (Redhat - CentOS, RockyOS)
 * PHP(5, 7, 8), Python(2, 3), JS, Shell Script
 * MySQL & MariaDB
 * Git
-**Learning Skill**
+* React
+* TypeScript
 * Java
-* Spring Boot (MyBatis, JPA, Security, etc..)
-**최근 관심사**
-* Java Spring
-* Go
-* Docker & k8s (Cloud and Container)
-* RaspberryPi(Iot)
-* Redis & Kafka
+* Spring & Spring Boot
+
+### 진행 프로젝트
+2023.08 ~ 2024.06 : CentOS7 -> Rocky Linux 9 환경 마이그레이션 프로젝트 진행
+2025.04 ~ 진행중 : PHP 8 + Jquery -> Java Spring 환경 마이그레이션 프로젝트
+- 기술 스택
+- Java 21
+- Spring 3.X
+- React + TypeScript
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
