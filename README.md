@@ -4,9 +4,11 @@
 2023.06 ~
 ### Develop environment
 * MacBook Pro M3
-* Vistual Studio Code
+### Develop Tools
+* Cursor (DB MCP) - PHP, JS (Jquery, React + TS, Python, Shell)
 * ModaXterm (Windows) (SSH, SFTP)
 * Port X (Mac) (SSH, SFTP)
+* Intellij (Java Spring)
 ### Core Skill
 * Linux (Redhat - CentOS, RockyOS)
 * PHP(5, 7, 8), Python(2, 3), JS, Shell Script
