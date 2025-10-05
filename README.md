@@ -19,9 +19,10 @@
 * Java
 * Spring & Spring Boot
 
-### 진행 프로젝트
-2023.08 ~ 2024.06 : CentOS7 -> Rocky Linux 9 환경 마이그레이션 프로젝트 진행
-2025.04 ~ 진행중 : PHP 8 + Jquery -> Java Spring 환경 마이그레이션 프로젝트
+### 주요 프로젝트
+PHP7 -> PHP 8 웹 마이그레이션
+CentOS7 -> Rocky Linux 9 서버 마이그레이션
+PHP8 -> Java Spring + React TS 마이그레이션
 - 기술 스택
 - Java 21
 - Spring 3.X
